@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/acer/OneDrive/Desktop/New%20folder/mlflow_2/mlruns/462965055919648718/4e6c260eed4c46668a643f0bd8b7fdd7/artifacts
+end_time: 1744178038802
+entry_point_name: ''
+experiment_id: '462965055919648718'
+lifecycle_stage: active
+run_id: 4e6c260eed4c46668a643f0bd8b7fdd7
+run_name: victorious-conch-255
+run_uuid: 4e6c260eed4c46668a643f0bd8b7fdd7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744178026249
+status: 3
+tags: []
+user_id: acer

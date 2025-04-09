@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/acer/OneDrive/Desktop/New%20folder/mlflow_2/mlruns/462965055919648718
+creation_time: 1744178025871
+experiment_id: '462965055919648718'
+last_update_time: 1744178025871
+lifecycle_stage: active
+name: churn_prediction_experiment

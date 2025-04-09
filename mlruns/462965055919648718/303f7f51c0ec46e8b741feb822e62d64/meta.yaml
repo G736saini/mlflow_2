@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/acer/OneDrive/Desktop/New%20folder/mlflow_2/mlruns/462965055919648718/303f7f51c0ec46e8b741feb822e62d64/artifacts
+end_time: 1744178065114
+entry_point_name: ''
+experiment_id: '462965055919648718'
+lifecycle_stage: active
+run_id: 303f7f51c0ec46e8b741feb822e62d64
+run_name: bemused-perch-217
+run_uuid: 303f7f51c0ec46e8b741feb822e62d64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744178057863
+status: 3
+tags: []
+user_id: acer

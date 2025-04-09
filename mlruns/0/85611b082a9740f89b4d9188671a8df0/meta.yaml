@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/85611b082a9740f89b4d9188671a8df0/artifacts
+end_time: 1744174594800
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 85611b082a9740f89b4d9188671a8df0
+run_name: judicious-bass-381
+run_uuid: 85611b082a9740f89b4d9188671a8df0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744174588749
+status: 3
+tags: []
+user_id: acer

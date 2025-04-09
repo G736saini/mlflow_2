@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/acer/OneDrive/Desktop/New%20folder/mlflow_2/mlruns/462965055919648718/0143a53ef4264177ae3bd115c4990fe2/artifacts
+end_time: 1744178052397
+entry_point_name: ''
+experiment_id: '462965055919648718'
+lifecycle_stage: active
+run_id: 0143a53ef4264177ae3bd115c4990fe2
+run_name: intelligent-cub-784
+run_uuid: 0143a53ef4264177ae3bd115c4990fe2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744178044721
+status: 3
+tags: []
+user_id: acer

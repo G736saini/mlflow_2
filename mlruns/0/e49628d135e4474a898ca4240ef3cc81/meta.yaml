@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e49628d135e4474a898ca4240ef3cc81/artifacts
+end_time: 1744174603118
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e49628d135e4474a898ca4240ef3cc81
+run_name: handsome-ray-374
+run_uuid: e49628d135e4474a898ca4240ef3cc81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744174598988
+status: 3
+tags: []
+user_id: acer
